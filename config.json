@@ -1,11 +1,11 @@
 {
     "admins": [
-        ""
+        "100095227895318"
     ],
     "Prefix": [
-        "#"
+        "/"
     ],
-    "botName": "",
+    "botName": "Alexander Grey",
     
     "mongoUri": ""
 }
